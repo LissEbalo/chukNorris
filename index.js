@@ -5,5 +5,5 @@ async function cambiarFrase() {
     let phrase_div = document.getElementById("reload");
     phrase_div.innerHTML = data.value;
 }
-cambiarFrase()
+cambiarFrase();
 
