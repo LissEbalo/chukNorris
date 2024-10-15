@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  margin: 0;
+  background-color: #c4c4cc;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 10px 10px black;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
+.btn {
+  padding: 5px;
+  margin: 5px;
+  background-color: rgb(214, 207, 207);
+  color: #9e5409;
+  border-radius: 10px;
+}
+.img_portada {
+  height: 10vh;
+  display: inline-flex;
+}
+.img_avatar {
+  padding: 5px;
+}
